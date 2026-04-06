@@ -1,0 +1,1 @@
+cmd /k venv\Scripts\python face_crop/face_crop.py ./watchlist -o ./output

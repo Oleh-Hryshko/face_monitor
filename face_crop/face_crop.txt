@@ -1,0 +1,23 @@
+# Images must meet the following requirements:
+# 
+# The photo of the person should be front-facing and have a resolution of HD (1280×720 pixels) or FullHD (1920×1080 pixels).
+# The photo must be sharp, not blurry, with even lighting and no overexposure.
+# The distance between the person's eyes must be at least 60 pixels.
+# The person should occupy most of the frame, so that the head and shoulders are clearly visible (waist-up photos are not recommended).
+# 
+# Face crop (face_crop.py)
+# 
+# Basic usage - cropping only
+python face_crop.py ./watchlist -o ./output
+# 
+# Background removal using the GrabCut method
+python face_crop.py ./watchlist -o ./output --remove-bg --bg-method grabcut
+# 
+# Background removal with a gray background
+python face_crop.py ./watchlist -o ./output --remove-bg --bg-color 128 128 128
+# 
+# Full processing: background removal + saving debug data
+python face_crop.py ./watchlist -o ./output -p 0.2 --remove-bg --debug
+# 
+# Fast background removal using the contour method
+python face_crop.py ./watchlist -o ./output --remove-bg --bg-method contour
