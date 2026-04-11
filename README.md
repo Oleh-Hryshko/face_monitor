@@ -312,6 +312,5 @@ For issues and questions:
 
 ---
 
-**Version**: 1.01  
-**Last Updated**: 2024
+If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
