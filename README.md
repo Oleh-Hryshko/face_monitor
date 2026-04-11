@@ -3,6 +3,12 @@
 Face Monitor is a desktop application for real-time face detection and watchlist matching.
 It uses OpenCV + DeepFace for recognition and PySide6 for the GUI.
 
+## 📸 Screenshots
+
+### Main Application Window
+
+![Face Monitor Application](face_monitor.png)
+
 ## Features
 
 - Real-time face detection from camera/screen/video stream
