@@ -291,9 +291,32 @@ watchlist/
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
+## 👤 Author
+
+**Oleh Hryshko**  
+- GitHub: [@oleh-hryshko](https://github.com/oleh-hryshko)
+- Email: oleg.grishko@gmail.com
+
 ## 📄 License
 
-This project is provided as-is for educational and research purposes.
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+### You are free to:
+
+- ✅ **Share** — copy and redistribute the material in any medium or format
+- ✅ **Adapt** — remix, transform, and build upon the material
+
+### Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+### Notice:
+
+This project is provided for **educational and research purposes only**. Commercial use is strictly prohibited without explicit written permission from the author.
 
 ## 🙏 Acknowledgments
 
@@ -311,6 +334,9 @@ For issues and questions:
 4. Check `detections.db` and file permissions
 
 ---
+
+**Version**: 1.0  
+**Author**: Oleh Hryshko
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
